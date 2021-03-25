@@ -1,0 +1,54 @@
+/*
+color blue : 3ab5fe
+*/
+
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nbar img{
+  width: 110px;
+  height: 10vh;
+}
+
+.nvbcol a{
+  font-weight: 900;
+  text-transform: uppercase;
+  color:#3ab5fe;
+}
+
+
+.banner{
+  background-color: : #3ab5fe ;
+}
+
+.slides img{
+  width: 100vh;
+  height:300px;
+}
+
+.blue-background{
+  background-color: #3ab5fe;
+}
+
+.box3{
+  border: 3px solid;
+
+}
+.box3 img{
+  width:15%;
+}
+.box3 col-md-4{
+  padding: 5px;
+  background-color:#3ab5fe;
+  color: white;
+}
+
+.footer-social-links i{
+  color: black;
+}
